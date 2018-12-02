@@ -1,0 +1,13 @@
+2.0.0TPF0TModelo LeftTopWidth HeightÐTipoDeModelo Font.CharsetDEFAULT_CHARSET
+Font.ColorclBlackFont.Heightõ	Font.NameTahoma
+Font.StylefsBold  TCardinalidade LeftýTopÇ Width(HeightCursorcrHandPointOID	FontColorclBlack
+FontStylesfsBold TamAuto	OrientacaoLinha FixaFracaCardinalidade_Comandoh0|4|1|1|0|0|5|1|1|0|0|405|255|510|255|506|198|506|259|0|0|0|0|405|258|509|198|509|258|509|258|3|4|1|1|0|  TRelacao Left/Topé WidthfHeight3CursorcrHandPointOIDNomePertence	FontColorclBlack
+FontStylesfsBold SetaDirecao   TCardinalidade LeftbTopXWidth(HeightCursorcrHandPointOID	FontColorclBlack
+FontStylesfsBold TamAuto	OrientacaoLinha FixaFracaCardinalidade_Comandop0|4|2|1|0|0|5|2|0|0|1|351|284|351|322|351|322|351|360|354|319|354|319|354|284|354|322|354|322|354|359|4|2|1|1|1|  	TEntidade LeftÛTop„ WidthfHeightBCursorcrHandPointOIDNome	Professor	FontColorclBlack
+FontStylesfsBold _AutoRelacaoÿ_Origemÿ  TCardinalidade LeftTopÇ Width(HeightCursorcrHandPointOID	FontColorclBlack
+FontStylesfsBold TamAuto	OrientacaoLinha FixaFracaCardinalidade_Comandoh0|1|5|1|0|0|5|1|0|1|0|540|198|540|260|543|257|672|257|0|0|0|0|543|198|543|260|543|260|672|260|4|1|1|1|0|  TRelacao Left Topë WidthfHeight3CursorcrHandPointOIDNomeMinistra	FontColorclBlack
+FontStylesfsBold SetaDirecao   TCardinalidade LeftÓTopZWidth(HeightCursorcrHandPointOID		FontColorclBlack
+FontStylesfsBold TamAuto	OrientacaoLinha FixaFracaCardinalidade_Comandop0|5|3|1|0|0|5|3|0|0|1|720|286|720|324|720|324|720|362|723|321|723|321|723|286|723|324|723|324|723|361|4|2|1|1|1|  	TEntidade Left TopiWidthfHeightBCursorcrHandPointOIDNome
+Disciplina	FontColorclBlack
+FontStylesfsBold _AutoRelacaoÿ_Origemÿ  	TEntidade Left/TopgWidthfHeightBCursorcrHandPointOIDNomeDepartamento	FontColorclBlack
+FontStylesfsBold _AutoRelacaoÿ_Origemÿ   

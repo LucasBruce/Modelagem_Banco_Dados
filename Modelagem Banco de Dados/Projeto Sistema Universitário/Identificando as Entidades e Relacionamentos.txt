@@ -1,0 +1,63 @@
+Identificando as Entidades e Relacionamentos:
+
+-ENTIDADES:
+#Aluno
+#Professor
+#Disciplina
+#Departamento
+
+
+-RELACIONAMENTOS:
+#Aluno está Matriculado em Curso;
+
+#Aluno Cursa Disciplina;
+
+#Aluno Realizou Disciplina;
+
+#Disciplina Pertence a Curso;
+
+#Professor Ministra Disciplina;
+
+#Professor Pertence a Departamento;
+
+#Departamento é Responsável por Disciplina;
+
+#Departamento Controla Curso;
+
+#Disciplina Depende de Disciplina;
+ 
+
+-Identificando os Atributos - Aluno
+#Número de Matrícula
+#Nome
+#Sobrenome
+#Endereço
+   *Rua
+   *Número
+   *Bairro
+   *CEP
+   *Cidade
+   *Estado
+#Código do Curso
+
+
+-Identificando os Atributos - Professor
+#Código de Professor
+#Nome
+#Sobrenome
+#Código do Departamento
+
+
+-Identificando os Atributos - Disciplina
+
+#Código da Disciplina
+#Nome da Disciplina
+#Descrição Curricular
+#Código do Departamento
+#Número de Alunos
+
+
+-Identificando os Atributos - Departamento
+
+#Código do departamento
+#Nome do Departamento

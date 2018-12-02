@@ -1,0 +1,57 @@
+
+Entidades:
+
+#Aluno
+#Professor
+#Curso
+#Disciplina
+#Turma
+#Departamento
+#Faculdade
+
+ATRIBUTOS ALUNO:
+
+#Nome
+#Sobrenome
+#Código identificador aluno
+#Endereço
+#Histórico
+#Matrícula
+#Disciplina
+
+ATRIBUTOS PROFESSOR:
+
+#Nome
+#Sobrenome
+#Código identificador professor
+#Disciplinas
+
+ATRIBUTOS CURSO:
+
+#Nome
+#Disciplinas
+#Código identificador curso
+#Departamento
+
+ATRIBUTOS DISCIPLINA:
+
+#Nome
+#Código identificador disciplina
+#Aluno
+#Departamento
+
+ATRIBUTOS DEPARTAMENTO:
+
+#Nome
+#Disciplina
+
+ATRIBUTOS TURMA:
+
+#Alunos
+#Disciplina
+#Professor
+
+
+Relacionamentos:
+
+ 
